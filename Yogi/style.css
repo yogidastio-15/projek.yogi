@@ -1,0 +1,37 @@
+.navbar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  background-color: blue
+}
+
+.div1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightblue
+}
+
+.a1 {
+  display: flex;
+  align-items: center;
+  border-radius: 12px;
+  background-color: aqua;
+}
+
+.div3 {
+  margin-top: 15px;
+  background-color: aqua;
+}
+
+.header1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: column;
+  background-color: blue;
+}
